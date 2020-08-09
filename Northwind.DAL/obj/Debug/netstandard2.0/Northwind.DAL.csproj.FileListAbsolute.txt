@@ -1,0 +1,9 @@
+C:\Users\JCuerda\Desktop\NW.API\DapperUOW\Northwind.DAL\bin\Debug\netstandard2.0\Northwind.DAL.deps.json
+C:\Users\JCuerda\Desktop\NW.API\DapperUOW\Northwind.DAL\bin\Debug\netstandard2.0\Northwind.DAL.dll
+C:\Users\JCuerda\Desktop\NW.API\DapperUOW\Northwind.DAL\bin\Debug\netstandard2.0\Northwind.DAL.pdb
+C:\Users\JCuerda\Desktop\NW.API\DapperUOW\Northwind.DAL\obj\Debug\netstandard2.0\Northwind.DAL.csprojAssemblyReference.cache
+C:\Users\JCuerda\Desktop\NW.API\DapperUOW\Northwind.DAL\obj\Debug\netstandard2.0\Northwind.DAL.csproj.CoreCompileInputs.cache
+C:\Users\JCuerda\Desktop\NW.API\DapperUOW\Northwind.DAL\obj\Debug\netstandard2.0\Northwind.DAL.AssemblyInfoInputs.cache
+C:\Users\JCuerda\Desktop\NW.API\DapperUOW\Northwind.DAL\obj\Debug\netstandard2.0\Northwind.DAL.AssemblyInfo.cs
+C:\Users\JCuerda\Desktop\NW.API\DapperUOW\Northwind.DAL\obj\Debug\netstandard2.0\Northwind.DAL.dll
+C:\Users\JCuerda\Desktop\NW.API\DapperUOW\Northwind.DAL\obj\Debug\netstandard2.0\Northwind.DAL.pdb
